@@ -1,14 +1,14 @@
 [MQTT]
-Host = hassio.nl.cx
+Host = broker
 Port = 1883
 Username = mqttuser
-Password =
+Password = 
 
 [DEFAULT]
 AccessType = OnPremise
 SignOfLifeLog = 1
-Deviceinstance=41
-CustomName=SUN-2000_GTIL
+Deviceinstance=46
+CustomName=test
 Phase=L3
 Position=1
 
