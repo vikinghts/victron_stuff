@@ -1,0 +1,64 @@
+{
+  "ble": {},
+  "cloud": {
+    "connected": true
+  },
+  "mqtt": {
+    "connected": false
+  },
+  "pm1:0": {
+    "id": 0,
+    "voltage": 236.5,
+    "current": 0.074,
+    "apower": 2.1,
+    "freq": 50.1,
+    "aenergy": {
+      "total": 35.527,
+      "by_minute": [
+        0.000,
+        0.000,
+        0.000
+      ],
+      "minute_ts": 1759686580
+    },
+    "ret_aenergy": {
+      "total": 0.000,
+      "by_minute": [
+        0.000,
+        0.000,
+        0.000
+      ],
+      "minute_ts": 1759686580
+    }
+  },
+  "sys": {
+    "mac": "ECDA3BC5FE28",
+    "restart_required": false,
+    "time": "17:49",
+    "unixtime": 1759686581,
+    "uptime": 8341,
+    "ram_size": 261924,
+    "ram_free": 152780,
+    "fs_size": 1048576,
+    "fs_free": 712704,
+    "cfg_rev": 9,
+    "kvs_rev": 0,
+    "schedule_rev": 0,
+    "webhook_rev": 0,
+    "available_updates": {
+      "stable": {
+        "version": "1.3.3"
+      }
+    },
+    "reset_reason": 1
+  },
+  "wifi": {
+    "sta_ip": "192.168.1.216",
+    "status": "got ip",
+    "ssid": "midgard",
+    "rssi": -59
+  },
+  "ws": {
+    "connected": false
+  }
+}
